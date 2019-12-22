@@ -1,0 +1,45 @@
+.header{
+    width: 100%;
+    height: 1%;
+    text-align: center;
+    background-color: rgba(32,120,116,0.8);
+    font-family: "B nazanin";
+    font-size: 25px;
+    border-radius: 25px;
+}
+.box{
+    width: 100%;
+    height: 120px;
+    background-color: #52AB5B;
+    margin-top: 20px;
+    overflow: hidden;
+    border-radius: 25px;
+}
+.input{
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 47%;
+    height: 40px;
+    display: inline-block;
+    border-radius: 5px;
+}
+.input2{
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 43%;
+    height: 40px;
+    border-radius: 5px;
+}
+.submit{
+    margin-left: 45%;
+    margin-top: 20px;
+}
+.boxa {
+    width: 100%;
+    height: 20px;
+    background-color: #52AB5B;
+    margin-top: 20px;
+    overflow: hidden;
+    border-radius: 25px;
+    text-align: center;
+}
